@@ -1,168 +1,187 @@
 {
-    "logo": {
-        "text-normal": "LOUVOR",
-        "text-highlight": "JA"
+  "logo": {
+    "text-normal": "LOUVOR",
+    "text-highlight": "JA"
+  },
+  "menu": {
+    "home": "Início",
+    "about": "O Programa",
+    "download": "Download",
+    "contact": "Contato",
+    "donation": "Doação"
+  },
+  "footer": {
+    "texts": [
+      "Software LouvorJA",
+      "Versão do Programa",
+      "Versão do Banco de Dados"
+    ],
+    "partners": {
+      "title": "Parceiros",
+      "list": {
+        "ligaosom": "Blog Liga o Som",
+        "iasdbaixogandu": "IASD Baixo Gandu",
+        "seveninformatica": "Seven Informática",
+        "300degideao": "300 de Gideão",
+        "mdawiki": "MDA Wiki"
+      }
     },
-    "menu": {
-        "home": "Início",
-        "about": "O Programa",
-        "download": "Download",
-        "contact": "Contato",
-        "donation": "Doação"
-    },
-    "footer": {
-        "texts": [
-            "Software LouvorJA",
-            "Versão do Programa",
-            "Versão do Banco de Dados"
-        ],
-        "partners": {
-            "title": "Parceiros",
-            "list": {
-                "ligaosom": "Blog Liga o Som",
-                "iasdbaixogandu": "IASD Baixo Gandu",
-                "seveninformatica": "Seven Informática",
-                "300degideao": "300 de Gideão",
-                "mdawiki": "MDA Wiki"
-            }
-        },
-        "links": {
-            "title": "Links",
-            "list": {
-                "app": "Versão Web",
-                "help": "Ajuda",
-                "faq": "Perguntas Frequentes",
-                "drive": "Drive",
-                "dev": "Colaborar como Desenvolvedor"
-            }
-        }
-    },
-    "carousel": {
-        "slide1": {
-            "title": [
-                "Músicas",
-                "para projeção."
-            ],
-            "text": "Projete músicas para sua igreja, evento ou pequeno grupo. Utilize as músicas do programa, ou crie suas próprias músicas.",
-            "button1": "Baixe Agora",
-            "button2": "Acesse sem baixar"
-        },
-        "slide2": {
-            "title": [
-                "Ouça",
-                "diretamente da internet."
-            ],
-            "text": "Não quer baixar o programa? Caso você tenha uma boa conexão com a internet, pode desfrutar da versão web, sem precisar baixar nada.",
-            "button1": "Acesse Agora"
-        },
-        "slide3": {
-            "title": [
-                "Totalmente",
-                "Grátis."
-            ],
-            "text": "A utilização do programa é totalmente grátis. Mas sinta-se a vontade para enviar uma doação para ajudar nos custos de operação.",
-            "button1": "Faça uma Doação"
-        }
-    },
-    "home": {
-        "card1": {
-            "title": "Centenas de músicas para seus cultos",
-            "text": "Mais de mil músicas para projetar e cantar. A maioria conta com playbacks. O operador tem total controle sobre os slides. Não quer projetar? Não tem problema. É possível executar somente o áudio da música. O programa ainda conta com projeção em 3 telas: Tela do público, tela do operador e tela de retorno.",
-            "button": "Saiba mais"
-        },
-        "card2": {
-            "title": "Recursos",
-            "col1": {
-                "title": "Bíblia",
-                "text": "Várias versões da bíblia. Encontre de forma fácil e rápida a passagem bíblica e projete. Fundo, cores e letras totalmente customizáveis. Projete versos isolados ou alternados."
-            },
-            "col2": {
-                "title": "Liturgia",
-                "text": " Monte de maneira fácil e prática a programação do culto. Defina os arquivos que serão executados em cada momento, e deixe recados para os operadores sobre a programação."
-            },
-            "col3": {
-                "title": "E muito mais...",
-                "text": "O programa ainda conta com uma gama de recursos, como sorteador, cronômetro de culto, relógio, e ainda, editor de slides, para criar seus próprios slides!"
-            }
-        },
-        "card3": {
-            "title": "Principais usos",
-            "text": "O programa pode ser utilizado em diversos lugares e ocasiões, como igrejas, pequenos grupos, acampamentos, cultos de pôr-do-sol, sociais, entre outros.\nProjete as músicas, faça sorteios, exiba cronômetro, monte sua programação, crie slides e desfrute de tudo o que o programa tem a oferecer!",
-            "photo1": "Igrejas",
-            "photo2": "Eventos",
-            "photo3": "Pequenos Grupos",
-            "photo4": "Acampamentos"
-        }
-    },
-    "about": {
-        "card1": {
-            "title": "Músicas",
-            "text": "O programa possui músicas do Hinário Adventista, CDs jovens e CDs diversos. A maioria das músicas possui playback. O programa possui também, diversas opções de projeção das músicas, como: cantado, playback e sem áudio, e projeção em 3 telas: operador, retorno e público."
-        },
-        "card2": {
-            "title": "Bíblia",
-            "text": "O programa possui a bíblia em várias versões, para ser projetada para o público, podendo projetar um verso isolado, ou vários versos, em sequência ou intercalados. A bíblia é totalmente customizável, podendo alterar cores, fonte e imagem de fundo. Há também, a possibilidade de buscar versos bíblicos, através da aba \"Busca Bíblica\"."
-        },
-        "card3": {
-            "title": "Vídeos On-line",
-            "text": "O programa dispõe de alguns álbuns de músicas diretamente do Youtube, onde basta clicar para que o vídeo seja executado diretamente para o público. Há também a possibilidade de salvar o link dos vídeos on-line, ou executar diretamente do programa, bastando apenas colar a URL do Youtube, para que seja executado dentro do programa."
-        },
-        "card4": {
-            "title": "Organização dos Cultos",
-            "text": "O programa possui diversas ferramentas para organização dos cultos, como: \"Liturgia\", para organizar e montar a programação dos cultos; \"Itens Agendados\", para cadastrar conteúdos recorrentes específicos para cada dia, e \"Cronômetro de Culto\", para projetar o tempo decorrido e o tempo restante do culto, podendo configurar a duração do culto, ou o horário de término."
-        },
-        "card5": {
-            "title": "Transmissão",
-            "text": "Ferramenta para transmitir as letras das músicas para o navegador, onde é possível incorporar o link da transmissão em programas de streaming, como OBS e VMix, por exemplo. É possível também, transmitir a letra em dispositivos que estejam conectados na mesma rede, como celulares e monitores de retorno."
-        },
-        "card6": {
-            "title": "Editor de Músicas",
-            "text": "Ferramenta para criação de músicas, no mesmo formato do programa. Crie músicas facilmente com esta ferramenta. Configure as imagens, cores, letra e áudio, e grave os intervalos. Depois, basta exportar e estará pronto para ser executado. As músicas criadas podem ser colocadas no programa através do menu \"Coletâneas Personalizadas\""
-        },
-        "card7": {
-            "title": "Utilitários",
-            "text": "Ferramentas diversas de auxílio nas programações, como: sorteador, Cronômetro, temporizador, relógio e painel de anúncios."
-        }
-    },
-    "download": {
-        "title": "Download",
-        "button": {
-            "pt": "Português",
-            "es": "Español",
-            "app": "Versão Web"
-        }
-    },
-    "contact": {
-        "title": "Contato",
-        "text": [
-            "Caso precise de suporte, pode entrar em nossos grupos do",
-            "ou",
-            "Ou, envie um e-mail para:"
-        ],
-        "whatsapp": "WhatsApp",
-        "telegram": "Telegram"
-    },
-    "dev": {
-        "title": "Desenvolvedor",
-        "text": "Para colaborar, entre no grupo de desenvolvedores:",
-        "link": "Acessar grupo"
-    },
-    "donation": {
-        "title": "Doação",
-        "text": "O software LouvorJA é gratuíto. Todo o serviço de desenvolvimento é voluntário. No entanto, existem custos para manê-lo funcionando. Caso queira fazer uma contribuição, pode fazer através dos meios abaixo:"
-    },
-    "help": {
-        "title": "Ajuda do Programa",
-        "related": "Tópicos Relacionados",
-        "link_back": "Todos os itens",
-        "link_more": "Saiba mais",
-        "lyric_css": "Ó DEUS DE AMOR",
-        "download_font": "Baixar fonte"
-    },
-    "faq": {
-        "title": "Perguntas Frequentes"
-    },
-    "notfound": {
-        "title": "Página não encontrada!"
+    "links": {
+      "title": "Links",
+      "list": {
+        "app": "Versão Web",
+        "help": "Ajuda",
+        "faq": "Perguntas Frequentes",
+        "drive": "Drive",
+        "dev": "Colaborar como Desenvolvedor"
+      }
     }
+  },
+  "carousel": {
+    "slide1": {
+      "title": [
+        "Músicas",
+        "para projeção."
+      ],
+      "text": "Projete músicas para sua igreja, evento ou pequeno grupo. Utilize as músicas do programa, ou crie suas próprias músicas.",
+      "button1": "Baixe Agora",
+      "button2": "Acesse sem baixar"
+    },
+    "slide2": {
+      "title": [
+        "Ouça",
+        "diretamente da internet."
+      ],
+      "text": "Não quer baixar o programa? Caso você tenha uma boa conexão com a internet, pode desfrutar da versão web, sem precisar baixar nada.",
+      "button1": "Acesse Agora"
+    },
+    "slide3": {
+      "title": [
+        "Totalmente",
+        "Grátis."
+      ],
+      "text": "A utilização do programa é totalmente grátis. Mas sinta-se a vontade para enviar uma doação para ajudar nos custos de operação.",
+      "button1": "Faça uma Doação"
+    }
+  },
+  "home": {
+    "card1": {
+      "title": "Centenas de músicas para seus cultos",
+      "text": "Mais de mil músicas para projetar e cantar. A maioria conta com playbacks. O operador tem total controle sobre os slides. Não quer projetar? Não tem problema. É possível executar somente o áudio da música. O programa ainda conta com projeção em 3 telas: Tela do público, tela do operador e tela de retorno.",
+      "button": "Saiba mais"
+    },
+    "card2": {
+      "title": "Recursos",
+      "col1": {
+        "title": "Bíblia",
+        "text": "Várias versões da bíblia. Encontre de forma fácil e rápida a passagem bíblica e projete. Fundo, cores e letras totalmente customizáveis. Projete versos isolados ou alternados."
+      },
+      "col2": {
+        "title": "Liturgia",
+        "text": " Monte de maneira fácil e prática a programação do culto. Defina os arquivos que serão executados em cada momento, e deixe recados para os operadores sobre a programação."
+      },
+      "col3": {
+        "title": "E muito mais...",
+        "text": "O programa ainda conta com uma gama de recursos, como sorteador, cronômetro de culto, relógio, e ainda, editor de slides, para criar seus próprios slides!"
+      }
+    },
+    "card3": {
+      "title": "Principais usos",
+      "text": "O programa pode ser utilizado em diversos lugares e ocasiões, como igrejas, pequenos grupos, acampamentos, cultos de pôr-do-sol, sociais, entre outros.\nProjete as músicas, faça sorteios, exiba cronômetro, monte sua programação, crie slides e desfrute de tudo o que o programa tem a oferecer!",
+      "photo1": "Igrejas",
+      "photo2": "Eventos",
+      "photo3": "Pequenos Grupos",
+      "photo4": "Acampamentos"
+    }
+  },
+  "about": {
+    "card1": {
+      "title": "Músicas",
+      "text": "O programa possui músicas do Hinário Adventista, CDs jovens e CDs diversos. A maioria das músicas possui playback. O programa possui também, diversas opções de projeção das músicas, como: cantado, playback e sem áudio, e projeção em 3 telas: operador, retorno e público."
+    },
+    "card2": {
+      "title": "Bíblia",
+      "text": "O programa possui a bíblia em várias versões, para ser projetada para o público, podendo projetar um verso isolado, ou vários versos, em sequência ou intercalados. A bíblia é totalmente customizável, podendo alterar cores, fonte e imagem de fundo. Há também, a possibilidade de buscar versos bíblicos, através da aba \"Busca Bíblica\"."
+    },
+    "card3": {
+      "title": "Vídeos On-line",
+      "text": "O programa dispõe de alguns álbuns de músicas diretamente do Youtube, onde basta clicar para que o vídeo seja executado diretamente para o público. Há também a possibilidade de salvar o link dos vídeos on-line, ou executar diretamente do programa, bastando apenas colar a URL do Youtube, para que seja executado dentro do programa."
+    },
+    "card4": {
+      "title": "Organização dos Cultos",
+      "text": "O programa possui diversas ferramentas para organização dos cultos, como: \"Liturgia\", para organizar e montar a programação dos cultos; \"Itens Agendados\", para cadastrar conteúdos recorrentes específicos para cada dia, e \"Cronômetro de Culto\", para projetar o tempo decorrido e o tempo restante do culto, podendo configurar a duração do culto, ou o horário de término."
+    },
+    "card5": {
+      "title": "Transmissão",
+      "text": "Ferramenta para transmitir as letras das músicas para o navegador, onde é possível incorporar o link da transmissão em programas de streaming, como OBS e VMix, por exemplo. É possível também, transmitir a letra em dispositivos que estejam conectados na mesma rede, como celulares e monitores de retorno."
+    },
+    "card6": {
+      "title": "Editor de Músicas",
+      "text": "Ferramenta para criação de músicas, no mesmo formato do programa. Crie músicas facilmente com esta ferramenta. Configure as imagens, cores, letra e áudio, e grave os intervalos. Depois, basta exportar e estará pronto para ser executado. As músicas criadas podem ser colocadas no programa através do menu \"Coletâneas Personalizadas\""
+    },
+    "card7": {
+      "title": "Utilitários",
+      "text": "Ferramentas diversas de auxílio nas programações, como: sorteador, Cronômetro, temporizador, relógio e painel de anúncios."
+    }
+  },
+  "download": {
+    "title": "Download",
+    "button": {
+      "pt": "Português",
+      "es": "Español",
+      "app": "Versão Web"
+    }
+  },
+  "contact": {
+    "title": "Contato",
+    "text": [
+      "Caso precise de suporte, pode entrar em nossos grupos do",
+      "ou",
+      "Ou, envie um e-mail para:"
+    ],
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram"
+  },
+  "dev": {
+    "title": "Desenvolvedor",
+    "text": "Para colaborar, entre no grupo de desenvolvedores:",
+    "link": "Acessar grupo"
+  },
+  "donation": {
+    "title": "Doação",
+    "text": "O software LouvorJA é gratuíto. Todo o serviço de desenvolvimento é voluntário. No entanto, existem custos para manê-lo funcionando. Caso queira fazer uma contribuição, pode fazer através dos meios abaixo:"
+  },
+  "help": {
+    "title": "Ajuda do Programa",
+    "related": "Tópicos Relacionados",
+    "link_back": "Todos os itens",
+    "link_more": "Saiba mais",
+    "lyric_css": "Ó DEUS DE AMOR",
+    "download_font": "Baixar fonte"
+  },
+  "faq": {
+    "title": "Perguntas Frequentes"
+  },
+  "chatbot": {
+    "name": "LouvorJ.AI",
+    "status": "Online — Especialista em LouvorJA",
+    "placeholder": "Digite sua mensagem...",
+    "new_conversation": "Nova conversa",
+    "send_file": "Enviar arquivo",
+    "quick_music": "Buscar música",
+    "quick_categories": "Categorias",
+    "quick_hymnal": "Hinário",
+    "quick_shortcuts": "Atalhos",
+    "quick_stream": "Transmitir",
+    "quick_download": "Download",
+    "welcome": "Olá! Sou a <strong>LouvorJ.AI</strong>, sua assistente virtual do LouvorJA. Posso te ajudar com <strong>músicas</strong>, <strong>hinários</strong>, <strong>atalhos</strong>, <strong>transmissão</strong> e mais!",
+    "error": "Ocorreu um erro ao processar sua mensagem. Tente novamente.",
+    "fallback": "Precisa de ajuda? Visite <strong>louvorja.com/ajuda</strong> para tutoriais completos.",
+    "guardrail": "Desculpe, sou a IA LouvorJ.AI e só posso ajudar com dúvidas sobre o LouvorJA.",
+    "close": "Fechar chat",
+    "open": "Abrir chat"
+  },
+  "notfound": {
+    "title": "Página não encontrada!"
+  }
 }

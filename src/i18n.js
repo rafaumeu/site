@@ -16,10 +16,10 @@ export const createI18nInstance = async () => {
   const lang = localStorage.getItem("lang") || "pt";
 
   return createI18n({
-    legacy: false, // Usando a API Composition
-    locale: lang, // Idioma padrão
-    fallbackLocale: "pt", // Idioma de fallback
-    messages, // Carregar as mensagens
+    legacy: true, // Options API para compatibilidade com this.$i18n.locale
+    locale: lang,
+    fallbackLocale: "pt",
+    messages,
   });
 };
 

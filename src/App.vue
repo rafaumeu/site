@@ -17,6 +17,8 @@
 
   <Footer />
 
+  <ChatFab />
+
   <!--====== Javascripts & Jquery ======-->
 </template>
 
@@ -24,6 +26,7 @@
 import Header from "@/layout/Header.vue";
 import Footer from "@/layout/Footer.vue";
 import Popup from "@/layout/Popup.vue";
+import ChatFab from "@/components/ChatFab.vue";
 
 export default {
   name: "AppPage",
@@ -31,6 +34,7 @@ export default {
     Header,
     Footer,
     Popup,
+    ChatFab,
   },
   mounted() {
     const urlParams = new URLSearchParams(window.location.search);
